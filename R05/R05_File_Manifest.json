@@ -1,0 +1,26 @@
+{
+  "revision": "R05",
+  "issue_date_toronto": "2026-10-16",
+  "files": [
+    {
+      "file": "R05_Entrance_POV.pdf",
+      "bytes": 4006728,
+      "sha256": "314cf28302e4b0e0956d918e677744f5adee08294244b7c6bc1d5e42ab56a085"
+    },
+    {
+      "file": "R05_Entrance_POV.png",
+      "bytes": 2766386,
+      "sha256": "7e8c57150c98e5a661a7dc98697d0223626afa92ec932764468ee135a6c7099b"
+    },
+    {
+      "file": "R05_Render_Provenance.json",
+      "bytes": 2326,
+      "sha256": "b9476813fbb4d87f354706a54c05a9fa6abbfd6913e19b98cf89283ba2cc0645"
+    },
+    {
+      "file": "README.md",
+      "bytes": 927,
+      "sha256": "8ed3db5258eb8e80600538989622ae5cd1490f784d0456532ad46271e0abeeca"
+    }
+  ]
+}
