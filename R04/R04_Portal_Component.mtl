@@ -1,0 +1,8 @@
+newmtl brick
+Kd .71 .42 .28
+
+newmtl dark_top
+Kd .20 .22 .21
+
+newmtl mineral
+Kd .69 .68 .63

@@ -1,0 +1,146 @@
+{
+  "revision": "R04",
+  "issue_date_toronto": "2026-10-16",
+  "source_file": "01_Source_Drawings_and_References/348 Front newst Drawing.pdf",
+  "source_sha256_before": "48e949ee0bb6051d611d0eb6a0a462fb21bd0b3f5b06772c5fe904aa92eb99a8",
+  "source_sha256_after": "48e949ee0bb6051d611d0eb6a0a462fb21bd0b3f5b06772c5fe904aa92eb99a8",
+  "source_unchanged": true,
+  "source_rotation": 270,
+  "display_crop_pt": [
+    330.0,
+    70.0,
+    1150.0,
+    625.0
+  ],
+  "crop_reason": "Keeps front width dimension,door swing,source controls;excludes separate cooking-line view and title block",
+  "scale": "UNIFORM NOMINAL1:64;NOT SURVEY;NOT CONSTRUCTION",
+  "mm_per_display_pt": 22.577777777777776,
+  "display_origin_pt": [
+    445.32,
+    212.46
+  ],
+  "dxf_mapping": "X=(displayX-445.32)*S;Y=-(displayY-212.46)*S",
+  "svg_mapping": "Original displayed PDF points in nested crop;mm transform recorded in SVG metadata;no second rotation",
+  "dxf_layers": [
+    "SOURCE_TRACE",
+    "SOURCE_TEXT",
+    "REFERENCE_NOTES"
+  ],
+  "dxf_units": 4,
+  "dxf_units_description": "millimetres",
+  "dxf_version": "AC1024",
+  "curve_approximation": {
+    "method": "adaptive cubic de Casteljau subdivision;control-point distance to chord <= tolerance",
+    "tolerance_mm": 0.5,
+    "max_depth": 20,
+    "scope": "DXF cubic curves only;SVG preserves original Beziers"
+  },
+  "fill_policy": "DXF filled source paths retain outline geometry;SVG retains source fills,clipping and text glyph outlines",
+  "text_policy": "DXF editable text with source baseline/FIT endpoints and cap-height approximation;CAD font substitution can differ;SVG is visual source-text authority",
+  "source_fonts": [
+    "ArialMT",
+    "ArialNarrow"
+  ],
+  "partially_cropped_text_omitted_from_dxf": [
+    "EX.  OUTDOOR PATIO TO",
+    "EX. CEILING MOUNTED",
+    "FAN TO REMAIN UNCHANGED"
+  ],
+  "source_path_count": 7479,
+  "counts": {
+    "intersecting_source_paths": 7153,
+    "source_primitive_l": 8581,
+    "line_entities": 5266,
+    "source_primitive_qu": 62,
+    "polyline_entities": 311,
+    "source_filled_paths_outlined_in_dxf": 102,
+    "source_primitive_c": 251,
+    "text_entities": 194
+  },
+  "dxf_audit": {
+    "errors": 0,
+    "fixes": 0
+  },
+  "source_trace_xyup_mm_bounds": [
+    -2603.669333333333,
+    -8757.919669270832,
+    15910.108444444444,
+    2819.0605065104164
+  ],
+  "expected_crop_xyup_mm_bounds": [
+    -2603.669333333333,
+    -9314.236444444443,
+    15910.108444444444,
+    3216.4302222222223
+  ],
+  "control_roundtrip_checks": [
+    {
+      "display_pt": [
+        445.32,
+        144.12
+      ],
+      "mapped_xyup_mm": [
+        0.0,
+        1542.9653333333333
+      ],
+      "nearest_export_vertex_mm": 0.00019874349493054601
+    },
+    {
+      "display_pt": [
+        1047.54,
+        144.12
+      ],
+      "mapped_xyup_mm": [
+        13596.789333333332,
+        1542.9653333333333
+      ],
+      "nearest_export_vertex_mm": 0.0008888079309112832
+    },
+    {
+      "display_pt": [
+        716.52,
+        502.86
+      ],
+      "mapped_xyup_mm": [
+        6123.093333333332,
+        -6556.586666666665
+      ],
+      "nearest_export_vertex_mm": 0.0005681797041251317
+    },
+    {
+      "display_pt": [
+        792.18,
+        212.46
+      ],
+      "mapped_xyup_mm": [
+        7831.327999999999,
+        -0.0
+      ],
+      "nearest_export_vertex_mm": 0.0013102237586194649
+    },
+    {
+      "display_pt": [
+        569.88,
+        241.32
+      ],
+      "mapped_xyup_mm": [
+        2812.288,
+        -651.5946666666663
+      ],
+      "nearest_export_vertex_mm": 0.00019874349493685225
+    }
+  ],
+  "written_dimension_discrepancy_retained_mm": 12.7,
+  "reference_not_new_layout": true,
+  "previews": "SVG opened/rendered byPyMuPDF;DXF reread/rendered byezdxf+matplotlib",
+  "outputs": {
+    "R04_A5_Reference.dxf": {
+      "bytes": 1161004,
+      "sha256": "ff83d2653b2def2a0907bbb5eb7ad3e34316b6cfa66805e138a5d1e84df75205"
+    },
+    "R04_A5_Reference.svg": {
+      "bytes": 1564634,
+      "sha256": "634b410165b6793adcfac2f816db5ff8dea8bd992bae322c852fcbf5c958b929"
+    }
+  }
+}

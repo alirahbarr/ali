@@ -1,0 +1,465 @@
+{
+  "revision": "R04",
+  "status": "SOURCE CONTROL DATA FOR COORDINATION;NOT A MEASURED SURVEY;NOT FOR CONSTRUCTION",
+  "owner_visual_selection": {
+    "image": "07_Renderings/R03_V02_Compact_Form_Study.png",
+    "status": "Owner approved visual direction in latest instruction to develop design",
+    "approval_scope": "Form/material direction only;no site dimensions,fit,route,structure,permit or fabrication approval"
+  },
+  "source": {
+    "file": "01_Source_Drawings_and_References/348 Front newst Drawing.pdf",
+    "sha256": "48e949ee0bb6051d611d0eb6a0a462fb21bd0b3f5b06772c5fe904aa92eb99a8",
+    "sheet": "A5",
+    "title_date": "2026-06-19",
+    "page": 1,
+    "page_rotation_degrees": 270,
+    "native_media_box_pt": [
+      0,
+      0,
+      792,
+      1224
+    ],
+    "display_landscape_box_pt": [
+      0,
+      0,
+      1224,
+      792
+    ],
+    "source_vectors_observed": 7479,
+    "raster_images_observed": 0
+  },
+  "mapping": {
+    "source_scale_label": "3/16in=1ft",
+    "nominal_scale_ratio": 64,
+    "mm_per_display_pt": 22.577777777777776,
+    "origin_display_landscape_pt": [
+      445.32,
+      212.46
+    ],
+    "native_to_display": "x_display=y_native;y_display=792-x_native",
+    "display_to_reference_mm_xy_down": "X=(x_display-445.32)*22.577777777777776;Y=(y_display-212.46)*22.577777777777776",
+    "cad_xy_up_variant": "X_CAD=X;Y_CAD=-Y",
+    "rotation_note": "PyMuPDF get_drawings returns native coordinates: apply page.rotation_matrix once. get_svg_image already exports displayed1224x792 view:do not rotate its result again.",
+    "distortion_policy": "Uniform nominal mapping only.No anisotropic stretch,no snapping source ink to conflicting written chains,no invented perimeter closure."
+  },
+  "anchors": [
+    {
+      "id": "A0",
+      "description": "Dimension-reference origin; not a surveyed physical corner",
+      "display_landscape_pt": [
+        445.32,
+        212.46
+      ],
+      "native_pdf_pt": [
+        579.54,
+        445.32
+      ],
+      "reference_trace_mm_xy_down": [
+        0.0,
+        0.0
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Intersection of storefront longitudinal witness and guest-left transverse datum"
+    },
+    {
+      "id": "A1",
+      "description": "Rear longitudinal witness at guest-left datum",
+      "display_landscape_pt": [
+        1047.54,
+        212.46
+      ],
+      "native_pdf_pt": [
+        579.54,
+        1047.54
+      ],
+      "reference_trace_mm_xy_down": [
+        13596.789,
+        0.0
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Overall dimension witness; source rear guest-left wall intersection"
+    },
+    {
+      "id": "A2",
+      "description": "Front guest-right transverse witness",
+      "display_landscape_pt": [
+        445.32,
+        485.52
+      ],
+      "native_pdf_pt": [
+        306.48,
+        445.32
+      ],
+      "reference_trace_mm_xy_down": [
+        0.0,
+        6165.088
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Front overall transverse dimension endpoint; not unobstructed width"
+    },
+    {
+      "id": "A3",
+      "description": "Guest-right wall-jog longitudinal witness at front wall face",
+      "display_landscape_pt": [
+        716.52,
+        485.52
+      ],
+      "native_pdf_pt": [
+        306.48,
+        716.52
+      ],
+      "reference_trace_mm_xy_down": [
+        6123.093,
+        6165.088
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Lower split-chain witness / front-side wall face"
+    },
+    {
+      "id": "A4",
+      "description": "Guest-right wall-jog rear inner face",
+      "display_landscape_pt": [
+        716.52,
+        453.84
+      ],
+      "native_pdf_pt": [
+        338.16,
+        716.52
+      ],
+      "reference_trace_mm_xy_down": [
+        6123.093,
+        5449.824
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Rear inner-side wall line; keep distinct from outer faces"
+    },
+    {
+      "id": "A5",
+      "description": "Rear guest-right inner face",
+      "display_landscape_pt": [
+        1047.54,
+        453.84
+      ],
+      "native_pdf_pt": [
+        338.16,
+        1047.54
+      ],
+      "reference_trace_mm_xy_down": [
+        13596.789,
+        5449.824
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Rear overall transverse endpoint / rear inner-side wall line"
+    },
+    {
+      "id": "A6",
+      "description": "Front guest-right column projection witness",
+      "display_landscape_pt": [
+        481.62,
+        485.52
+      ],
+      "native_pdf_pt": [
+        306.48,
+        481.62
+      ],
+      "reference_trace_mm_xy_down": [
+        819.573,
+        6165.088
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Lower 2ft8.5in and17ft5in component-chain witness"
+    },
+    {
+      "id": "A7",
+      "description": "Lower-stair-flight longitudinal witness",
+      "display_landscape_pt": [
+        880.14,
+        453.84
+      ],
+      "native_pdf_pt": [
+        338.16,
+        880.14
+      ],
+      "reference_trace_mm_xy_down": [
+        9817.269,
+        5449.824
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "12ft1.5in /8ft5.5in subchain reference; not verified clear stair start"
+    },
+    {
+      "id": "A8",
+      "description": "Stair return/landing longitudinal witness",
+      "display_landscape_pt": [
+        994.26,
+        453.84
+      ],
+      "native_pdf_pt": [
+        338.16,
+        994.26
+      ],
+      "reference_trace_mm_xy_down": [
+        12393.845,
+        5449.824
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "8ft5.5in /3ft11.5in subchain reference"
+    },
+    {
+      "id": "M0",
+      "description": "Source mezzanine floor-limit line, guest-left end",
+      "display_landscape_pt": [
+        792.18,
+        212.46
+      ],
+      "native_pdf_pt": [
+        579.54,
+        792.18
+      ],
+      "reference_trace_mm_xy_down": [
+        7831.328,
+        0.0
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Dashed source line; no height, structure or TV-fascia identity established"
+    },
+    {
+      "id": "M1",
+      "description": "Source mezzanine floor-limit line, guest-right end",
+      "display_landscape_pt": [
+        792.18,
+        453.84
+      ],
+      "native_pdf_pt": [
+        338.16,
+        792.18
+      ],
+      "reference_trace_mm_xy_down": [
+        7831.328,
+        5449.824
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Dashed source line; do not equate to kitchen ceiling front"
+    },
+    {
+      "id": "P0",
+      "description": "A5 rectangular POS leading/guest-left corner",
+      "display_landscape_pt": [
+        569.88,
+        241.32
+      ],
+      "native_pdf_pt": [
+        550.68,
+        569.88
+      ],
+      "reference_trace_mm_xy_down": [
+        2812.288,
+        651.595
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Source POS/item28 rectangle; not approved curved cashier set-out"
+    },
+    {
+      "id": "P1",
+      "description": "A5 rectangular POS back/guest-left corner",
+      "display_landscape_pt": [
+        602.52,
+        241.32
+      ],
+      "native_pdf_pt": [
+        550.68,
+        602.52
+      ],
+      "reference_trace_mm_xy_down": [
+        3549.227,
+        651.595
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Source POS/item28 rectangle; not manufacturer equipment envelope"
+    },
+    {
+      "id": "P2",
+      "description": "A5 rectangular POS back/guest-right corner",
+      "display_landscape_pt": [
+        602.52,
+        342.6
+      ],
+      "native_pdf_pt": [
+        449.4,
+        602.52
+      ],
+      "reference_trace_mm_xy_down": [
+        3549.227,
+        2938.272
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Source POS/item28 rectangle"
+    },
+    {
+      "id": "P3",
+      "description": "A5 rectangular POS leading/guest-right corner",
+      "display_landscape_pt": [
+        569.88,
+        342.6
+      ],
+      "native_pdf_pt": [
+        449.4,
+        569.88
+      ],
+      "reference_trace_mm_xy_down": [
+        2812.288,
+        2938.272
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Source POS/item28 rectangle"
+    },
+    {
+      "id": "E0",
+      "description": "Storefront upper entrance-opening witness",
+      "display_landscape_pt": [
+        445.32,
+        328.38
+      ],
+      "native_pdf_pt": [
+        463.62,
+        445.32
+      ],
+      "reference_trace_mm_xy_down": [
+        0.0,
+        2617.216
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Written3ft1.5in opening; source witness only, not measured clear opening"
+    },
+    {
+      "id": "E1",
+      "description": "Storefront lower entrance-opening witness",
+      "display_landscape_pt": [
+        445.32,
+        370.44
+      ],
+      "native_pdf_pt": [
+        421.56,
+        445.32
+      ],
+      "reference_trace_mm_xy_down": [
+        0.0,
+        3566.837
+      ],
+      "evidence_status": "EXTRACTED SOURCE INK / NOT SURVEY / NOT VERIFIED EXISTING",
+      "note": "Actual door leaf/hardware/clear opening remain unverified"
+    }
+  ],
+  "written_dimension_vs_nominal_trace": [
+    {
+      "id": "L",
+      "written_label": "44ft7.5in overall",
+      "written_mm": 13601.7,
+      "trace_span_pt": 602.22,
+      "nominal_trace_mm": 13596.789,
+      "trace_minus_written_mm": -4.911
+    },
+    {
+      "id": "TF",
+      "written_label": "20ft2.5in front transverse",
+      "written_mm": 6159.5,
+      "trace_span_pt": 273.06,
+      "nominal_trace_mm": 6165.088,
+      "trace_minus_written_mm": 5.588
+    },
+    {
+      "id": "TR",
+      "written_label": "17ft10.5in rear transverse",
+      "written_mm": 5448.3,
+      "trace_span_pt": 241.38,
+      "nominal_trace_mm": 5449.824,
+      "trace_minus_written_mm": 1.524
+    },
+    {
+      "id": "LF",
+      "written_label": "20ft1in front split",
+      "written_mm": 6121.4,
+      "trace_span_pt": 271.2,
+      "nominal_trace_mm": 6123.093,
+      "trace_minus_written_mm": 1.693
+    },
+    {
+      "id": "LR",
+      "written_label": "24ft6in rear split",
+      "written_mm": 7467.6,
+      "trace_span_pt": 331.02,
+      "nominal_trace_mm": 7473.696,
+      "trace_minus_written_mm": 6.096
+    },
+    {
+      "id": "POS",
+      "written_label": "9ft2.5in storefront to POS",
+      "written_mm": 2806.7,
+      "trace_span_pt": 124.56,
+      "nominal_trace_mm": 2812.288,
+      "trace_minus_written_mm": 5.588
+    }
+  ],
+  "written_chain_conflict": {
+    "overall_written_mm": 13601.7,
+    "front_split_written_mm": 6121.4,
+    "rear_split_written_mm": 7467.6,
+    "split_sum_mm": 13589.0,
+    "overall_minus_split_mm": 12.7,
+    "policy": "Retain discrepancy independently;do not repair by scaling or moving source corners"
+  },
+  "component_model": {
+    "units": "NORMALIZED DISPLAY UNITS ONLY;NO CONSTRUCTION DIMENSIONS",
+    "selected_form": "Compact deep rounded-rectangular portal with broad piers,curved cashier,opaque backing,flush floor",
+    "one_shared_geometry_required_for": [
+      "front elevation",
+      "local component plan",
+      "longitudinal relationship study",
+      "view from above"
+    ],
+    "unassigned_real_parameters": [
+      "host_plan_placement",
+      "portal_outer_width",
+      "opening_width",
+      "overall_height",
+      "soffit_depth",
+      "pier_width",
+      "corner_radius",
+      "counter_depth_and_bow",
+      "staff_recess_and_entry",
+      "opaque_screen_offset",
+      "top_build_up",
+      "guest_route_clear_width",
+      "projection_beyond_actual_mezzanine_edge"
+    ],
+    "site_heights": null,
+    "source_to_3d_policy": "Use source controls inplan;keep unmeasured vertical geometry schematic.No scaled host section or fit claim from normalized form.",
+    "physical_scale_mm": null
+  },
+  "constraints": {
+    "ground_wc": "Retain current universal WC;public approach unresolved;storage conversion only separate unapproved option",
+    "refrigeration": "Confirmed LEFT when entering=source TOP;two two-door coolers+one two-door freezer;positions,models,clearances and phase unresolved",
+    "mezzanine": "Source floor-limit line only;current surveyed plan/sections and structural conditions unavailable",
+    "files_available": "Owner confirms supplied PDFs only;do not request missing DWG again before progressing independent design studies"
+  },
+  "reference_intervals": {
+    "pos_leading_face_to_mezz_floor_limit": {
+      "display_x_pt": [
+        569.88,
+        792.18
+      ],
+      "nominal_trace_mm": 5019.04,
+      "status": "SOURCE-TRACED CONTROL INTERVAL ONLY",
+      "not_established": [
+        "kitchen roof projection",
+        "available cashier/staff depth",
+        "new enclosure length",
+        "structural span",
+        "physical fit"
+      ]
+    },
+    "front_to_mezz_floor_limit_nominal_trace_mm": 7831.328,
+    "mezz_floor_limit_to_rear_nominal_trace_mm": 5765.461
+  },
+  "issue_date_toronto": "2026-10-16"
+}

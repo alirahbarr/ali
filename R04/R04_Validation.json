@@ -1,0 +1,23 @@
+{
+  "revision": "R04",
+  "date": "16 October 2026",
+  "pdf_pages": 8,
+  "component_checks": [
+    "portal_brick: finite coordinates, valid indices, closed envelope",
+    "cashier_face: finite coordinates, valid indices, closed envelope",
+    "worktop: finite coordinates, valid indices, closed envelope",
+    "opaque_backing: finite coordinates, valid indices, closed envelope",
+    "finished_top_component_only: finite coordinates, valid indices, closed envelope"
+  ],
+  "shared_projection_basis": "same serialized parameters and profiles as OBJ",
+  "physical_fit_status": "NOT VALIDATED; unsized component only",
+  "source_A5_sha256_unchanged": true,
+  "visual_review": "Root and independent reviewer inspected all 8 PDF pages; no critical overlap or unit/source confusion. DXF model-unit wording clarified after review.",
+  "dxf_audit": {
+    "errors": 0,
+    "fixes": 0
+  },
+  "all_original_sources_and_prior_issue_PDFs_unchanged": true,
+  "source_trace_controls": "Five endpoint round trips <0.002 mm to extracted source, not site accuracy",
+  "site_fit": "NOT VALIDATED; only supplied PDFs available; unknown height/placement and staff entry remain open"
+}

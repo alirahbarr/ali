@@ -1,0 +1,102 @@
+{
+  "revision": "R04",
+  "date_toronto": "2026-10-16",
+  "purpose": "Content checksums; remote verification is recorded separately after upload",
+  "files": [
+    {
+      "file": "R04_A5_Control_Anchors.json",
+      "bytes": 13655,
+      "sha256": "e3d5557e7a0cf0536c458c81961211c809ace83209477ee3080f97434773cf52"
+    },
+    {
+      "file": "R04_A5_Controls.png",
+      "bytes": 265596,
+      "sha256": "3fe03f16a6057c86516c1345101d3e28497e7a5af6685d9203c18c4cf3fac419"
+    },
+    {
+      "file": "R04_A5_Extraction_Metadata.json",
+      "bytes": 4061,
+      "sha256": "2130acbb4143184cfdd8117605de70e5e3faffcc55e3469c6bb0a7bd4d296057"
+    },
+    {
+      "file": "R04_A5_Reference.dxf",
+      "bytes": 1161004,
+      "sha256": "ff83d2653b2def2a0907bbb5eb7ad3e34316b6cfa66805e138a5d1e84df75205"
+    },
+    {
+      "file": "R04_A5_Reference.svg",
+      "bytes": 1564634,
+      "sha256": "634b410165b6793adcfac2f816db5ff8dea8bd992bae322c852fcbf5c958b929"
+    },
+    {
+      "file": "R04_CAD_and_Design_Records.zip",
+      "bytes": 334785,
+      "sha256": "1f6fb39abdc9019f2f53235144023ba9d86d34d6527769056c3a794038553b22"
+    },
+    {
+      "file": "R04_Coordinated_Views.png",
+      "bytes": 101211,
+      "sha256": "ca13b5a3e03bafa1848b810c91ddd1294471054baff7d382e3342a1c2a2894cc"
+    },
+    {
+      "file": "R04_Design_Development.pdf",
+      "bytes": 4394820,
+      "sha256": "794050079c37e0fd7ec7d23de55bb98706fe8917ac8c9e83d3d4ed25ff084d9d"
+    },
+    {
+      "file": "R04_Design_Development_Schedule.md",
+      "bytes": 21065,
+      "sha256": "f167c01c86768431b84d568deab5c2efc289604f98d9fe9b0dcdca5492a48810"
+    },
+    {
+      "file": "R04_Planning_Basis.md",
+      "bytes": 15678,
+      "sha256": "ade7757914a9fe5a805d976e251e60676fb1973f06101322c8fec7886b20bf0c"
+    },
+    {
+      "file": "R04_Portal_Component.json",
+      "bytes": 64667,
+      "sha256": "6ce0189d52b89563901e2275ec08a06d688b79d5e204f7dc9cbe1888b39f53fd"
+    },
+    {
+      "file": "R04_Portal_Component.mtl",
+      "bytes": 91,
+      "sha256": "a510b00d3e35bdcd5c62d7b97cc9214a4ab6d1bfc91aa1e901afea7e599bcd23"
+    },
+    {
+      "file": "R04_Portal_Component.obj",
+      "bytes": 18566,
+      "sha256": "c73acbbc82f6694918eba301541d6becd8dae1f9d91fdb744f152a0c56772892"
+    },
+    {
+      "file": "R04_Section_and_Top.png",
+      "bytes": 116970,
+      "sha256": "af3ece0fb84581c79d720772f4bb7178aee13b86437705a2c9051b1d94e2e24c"
+    },
+    {
+      "file": "R04_Validation.json",
+      "bytes": 1162,
+      "sha256": "c3c8aec3432720e91875d5fb061d420c227e092b047a48cd883c5bef8bfd69bf"
+    },
+    {
+      "file": "README.md",
+      "bytes": 3319,
+      "sha256": "cf6dc77bfd9b7839c75d2f25aabdab0d45ad6ea8fcc6958f3eccbb123d54bba6"
+    },
+    {
+      "file": "build_r04.py",
+      "bytes": 26857,
+      "sha256": "85e64b0fab6dd1f64a04f4d28f6c9c8c957fc1ffa70d560c47026ccf7f02be08"
+    },
+    {
+      "file": "extract_a5_reference_r04.py",
+      "bytes": 10981,
+      "sha256": "92a77755dc09c52775360cd832bc76b04ed1cfc0c7092fd7232e327d0ae7f73b"
+    },
+    {
+      "file": "iPhone_Task_Open_Diagnostic_2026-10-16.md",
+      "bytes": 6539,
+      "sha256": "b99bd32da6dca08bc402745353a3b7faa91dc51a12bc0292286770d1b99a8598"
+    }
+  ]
+}
